@@ -4,9 +4,6 @@ function AnnouncementBar() {
       <div className="text whitespace-nowrap animate-scroll text-white text-md font-medium tracking-widest">
         New book out "Victor! Bayside Cemetery" • New book out "Victor! Bayside Cemetery" • New book out "Victor! Bayside Cemetery"
       </div>
-      <div className="second-text animate-scroll delay-2000 whitespace-nowrap text-white text-md font-medium tracking-widest">
-        New book out "Victor! Bayside Cemetery" • New book out "Victor! Bayside Cemetery" • New book out "Victor! Bayside Cemetery"
-      </div>
     </div>
   );
 }
